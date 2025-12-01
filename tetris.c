@@ -51,6 +51,18 @@ int main() {
     //      5 - Trocar 3 primeiros da fila com os 3 da pilha
 
 
-    return 0;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
 
